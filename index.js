@@ -2,4 +2,4 @@
 const currentUser = 'Grace Hopper';
 const welcomeMessage = 'Welcome to Flatbook, ' + currentUser + "!";
 const excitedWelcomeMessage = "WELCOME TO FLATBOOK, " + "GRACE HOPPER!";
-const shortGreeting = "Welcome, "
+const shortGreeting = "Welcome, G";
